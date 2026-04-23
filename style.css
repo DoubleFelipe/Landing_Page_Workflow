@@ -104,22 +104,25 @@ header h1 {
 }
 
 div.divisão {
-  max-width: 40%;
+  max-width: 30%;
 
 }
 
 div.mini-cards {
-  width: 50%;
+  width: 40%;
 }
 div.mini-cards h2 {
-
+  font-size: 1.25rem;
   color: #000000;
   background-color: #eeeeee;
   padding: 0.625rem 1.25rem;
-  border: 1px solid #999999;
-  border-radius: 20px;
+  border: 1px solid #cdcdcd;
+  border-radius: 10px;
   margin-left: 0;
-  width: 20rem;
+  width: auto;
+}
+div.mini-cards span {
+ font-size: 1.75rem;
 }
 
 .cards {
